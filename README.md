@@ -1,17 +1,14 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBia3QyejkzNzA3Z3dzMGV5czhpZDdjcXhhM281bnhzemRwaDZndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GNqgvW9ygLRb3YYIFW/giphy.gif" width="300">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFB7B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rocelyn+❤︎;Aspiring+Project+Manager;UI%2FUX+Designer+%26+SQA;)](https://git.io/typing-svg)
 
 </div>
-
----
 
 ## <div align="center"> ⋆. 𐙚˚࿔ About Me  𝜗𝜚˚⋆</div>
 - 🎯 Focused on **Project Management & SQA**  
 - 🎨 Designing modern, pastel, and user-centric **UI/UX Layouts**  
 - 💻 Developing web applications using **PHP & Laravel**  
 - ☁️ *Building with purpose, designing with empathy, and testing with precision.*  
-</div>
-
 ---
 
 ## <div align="center"> ⊹ ࣪ ˖ Tech & Tools I Use ˖ ࣪ ⊹ </div>
@@ -27,7 +24,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
 
-</div>
+---
+
 ## <div align="center"> 🌟 Featured Projects </div>
 
 - 🗺️ **LOCALINK** – A sustainable tourism and community-based marketplace designed to boost local economies.
