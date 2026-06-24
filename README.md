@@ -38,12 +38,66 @@
 
 ---
 
-## <div align="center"> 🌟 Featured Projects </div>
+## <div align="center"> ⋆˚✿˖°Featured Projects°˖✿˚⋆ </div>
 
-- 🛒 **KuboKart** – A community-driven e-commerce marketplace that empowers local entrepreneurs and promotes local products through digital commerce.
-- 🐾 **Heart2Home** – A pet adoption platform dedicated to connecting rescued and homeless animals with loving families through a simple, accessible, and user-friendly digital experience.
-- 🏥 **Unified Hospital Information System** – A comprehensive hospital dashboard focused on clean UI/UX and structured system actors.
-- 🗒️ **Task Tracker Web App** – A streamlined web application built to manage workflows and keep project deadlines on track.
+### 🚗 LakbAI — AI-Powered Travel Planning Platform
+
+> **Roles:** Project Manager • QA Analyst • UI/UX Designer
+
+An intelligent travel planning platform designed to help users create personalized travel experiences through AI-assisted recommendations and itinerary generation. As Project Manager, I coordinated project activities, managed team collaboration, oversaw quality assurance processes, and contributed to the platform's user experience design.
+
+#### ── .✦ Key Contributions:
+* Led project planning and task management.
+* Facilitated communication among team members.
+* Designed user flows and interface layouts.
+* Conducted usability and functional testing.
+* Ensured project deliverables met quality standards.
+
+---
+
+### 🏠 Heart2Home — Pet Adoption Platform
+
+> **Roles:** Project Manager • QA Analyst • UI/UX Designer
+
+A web-based platform that connects animal shelters, rescuers, and adopters to simplify the pet adoption process. The project aimed to promote responsible pet ownership while providing an efficient adoption management system.
+
+#### ── .✦ Key Contributions:
+* Led project development and coordination.
+* Designed adoption workflows and user journeys.
+* Created user-centered interface designs.
+* Conducted software testing and quality validation.
+* Assisted in documentation and project planning.
+
+---
+
+### ✨ Aethryx
+
+> **Roles:** Project Manager • Systems Analyst • QA Analyst
+
+A system-focused project centered on structured workflows, documentation, and quality-driven development practices. The project emphasized effective planning, requirements analysis, and software validation.
+
+#### ── .✦ Key Contributions:
+* Managed project timelines and deliverables.
+* Gathered and analyzed system requirements.
+* Prepared project and technical documentation.
+* Developed testing procedures and QA reports.
+* Coordinated team progress and project execution.
+
+---
+
+### 🍗 BES House of Chicken Website
+
+> **Roles:** UI/UX Designer • Frontend Contributor
+
+A business website designed to strengthen BES House of Chicken's digital presence and improve customer accessibility. The project focused on creating an intuitive user experience while maintaining the brand's visual identity.
+
+#### ── .✦ Key Contributions:
+* Designed website user interface and user experience.
+* Created responsive layouts for various devices.
+* Improved website navigation and accessibility.
+* Maintained visual consistency aligned with branding.
+* Collaborated with stakeholders to refine user requirements.
+
 
 ---
 
